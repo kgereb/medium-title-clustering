@@ -7,6 +7,10 @@ The dataset is from: https://www.kaggle.com/nulldata/medium-post-titles?select=m
 
 To run this notebook, dataset will have to be downloaded and saved in a folder called 'kaggle_datasets'.
 
+The work can be found in the following notebook:
+
+`sent2vec_tsne.ipynb`
+
 ## Requirements:
 
 The notebook was created in a Python 3.8.0 virtual environment. To install the necessary libraries, run:
