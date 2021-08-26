@@ -15,7 +15,7 @@ pip install requirements.txt
 
 # The final results looks like:
 
-https://github.com/kgereb/medium-title-clustering/blob/main/clusters.png
+![Clusters](https://github.com/kgereb/medium-title-clustering/blob/main/clusters.png)
 
 
 
