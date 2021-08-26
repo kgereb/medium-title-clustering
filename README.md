@@ -13,7 +13,9 @@ The notebook was created in a Python 3.8.0 virtual environment. To install the n
 
 pip install requirements.txt
 
+# The final results looks like:
 
+https://github.com/kgereb/medium-title-clustering/blob/main/clusters.png
 
 
 
